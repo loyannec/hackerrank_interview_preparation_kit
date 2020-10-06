@@ -15,4 +15,3 @@ def jumping_on_clouds(clouds):
 
 print(jumping_on_clouds([0, 0, 1, 0, 0, 1, 0]))
 print(jumping_on_clouds([0, 0, 0, 0, 1, 0]))
-
